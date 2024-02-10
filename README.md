@@ -39,3 +39,20 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,sql" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jupyter,postgresqljavascript,mongodb,mysql" /><br>
+</div>
+<br><hr>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+![snake gif](https://github.com/Gulo667/Gulo667/blob/output/github-contribution-grid-snake.gif)
+
+<br><br><hr>
+</div>
+
+
+
+
+
