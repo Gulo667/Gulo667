@@ -39,6 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,django,sql" />
+    <br>
     <img src="https://skillicons.dev/icons?i=bootstrap,jupyter,postgresqljavascript,mongodb,mysql" /><br>
 </div>
 <br><hr>
