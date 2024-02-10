@@ -56,7 +56,7 @@
 
 <div align="center">
     <br>
-    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='400' style='border:0px;height:400px;width:400px;' src='https://rlv.zcache.ca/see_you_soon_cool_cat-rd2da6a7bd5d547869c0556ebd642896e_xvuak_8byvr_644.jpg' border='0' alt='See you later' /></a>
+    <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='400' style='border:0px;height:400px;' src='https://ih1.redbubble.net/image.1352924111.9340/st,small,507x507-pad,600x600,f8f8f8.webp' border='0' alt='See you later' /></a>
 </div>
 
 <br/>
