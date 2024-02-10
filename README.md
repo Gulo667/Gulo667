@@ -44,6 +44,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions baby snake 🐍</h2>
+  <br>
 
 ![snake gif](https://github.com/Gulo667/Gulo667/blob/output/github-contribution-grid-snake.gif)
 
