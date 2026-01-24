@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guliko+Abramishvili!;" />
 </h1>
 
-<h3 align="center">A passionate software tester from Georgia, currently living in Italy </h3>
+<h3 align="center">A passionate software test engineer from Georgia, currently living in Italy </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working at **Exactpro Systems** as a **Middle Software Tester** (There was **Junior Software Tester** written before, but yes, I got promoted)
+ 🔭 I’m a **Middle Software Test engineer** with nearly 4 years of experience on the field
  
- 🌱 I’m currently learning **Data Science with Python**, Also reminding all the knowledge that I've forgotten throughout the time
+ 🌱 I’m currently learning **Data Science with Python**, and diving deep into Test Engineering - exploring **Pytest framework** capabilities
 
-💬 Ask me about **Python, Django, SQL, Linux services, Italy... or anything [here](https://github.com/Gulo667/Gulo667/issues)**
+💬 Ask me about **SDET, Python, Django, SQL, Linux services, Italy... or anything [here](https://github.com/Gulo667/Gulo667/issues)**
 
 ⚡ Fun fact: **Did you know that the first computer dates back to Adam and Eve? It was an Apple, but with extremely limited memory. 
                 Just one byte. And then everything crashed. 😄🍎**
