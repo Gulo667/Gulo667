@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guliko+Abramishvili!;" />
 </h1>
 
-<h3 align="center">An IT nerd with software test engineering experience from Georgia, currently living in Italy </h3>
+<h3 align="center">An IT "nerd" with software test engineering experience from Georgia (COUNTRY, NOT THE STATE), currently living in Italy </h3>
 
 <br/>
 
